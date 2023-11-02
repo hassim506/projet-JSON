@@ -1,0 +1,26 @@
+{
+    "titre": "tutoriel JSON",
+    "contenu": "...",
+    "author": {
+        "Firstname": "Hassim",
+        "Lastname": "Diallo",
+        "Birthyear": 1998
+    },
+    "comments": [
+        {
+            "username": "Mamadou Diallo",
+            "contenu" : "super tutoriel",
+            "replies" : []
+        },{
+            "username": "Hassim diallo",
+            "contenu": "jai aimer ce tutoriel",
+            "replies":[
+                {
+                    "username": "Hassim diallo",
+                    "contenu": "...",
+                    "replies": []
+                }
+            ]
+        }
+    ]
+}
